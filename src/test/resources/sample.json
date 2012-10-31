@@ -1,0 +1,11 @@
+{
+    stuff : "makes clutter",
+    things : [{
+        "foo" : "foovalue1",
+        "bar" : "barvalue1"
+        },
+        {
+        "foo" : "foovalue2",
+        "bar" : "barvalue2"
+        }]
+}
